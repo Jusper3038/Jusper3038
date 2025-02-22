@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jusper3038
-- 👀 I’m interested in ... web development 
-- 🌱 I’m currently learning ...Javascript
+- 👀 I’m interested in ... data science
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jusperasumwa@gmail.com
 - 😄 Pronouns: ...
